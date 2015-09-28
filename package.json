@@ -119,7 +119,7 @@
     "turf-tag": "~1.0.1",
     "turf-tin": "1.0.6",
     "turf-triangle-grid": "^1.0.0",
-    "turf-union": "1.0.1",
+    "turf-union": "https://github.com/tcql/turf-union.git#kill-jsts",
     "turf-variance": "1.0.1",
     "turf-within": "^1.0.1"
   },
